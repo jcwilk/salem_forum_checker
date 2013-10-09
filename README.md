@@ -5,6 +5,8 @@ This should work on any modern ubuntu computer. Will require modification for OS
 
 Oh and what it does (not that that's of any importance) is check your forum account for new messages every 10 seconds and make a window manager notification and email you when there's any new messages since last it checked.
 
+To setup the email part, create a regular gmail account (ie, no fancy 2-step verification or anything like that), and enter the creds in the yml along with the address you want to receive it at.
+
 Setup
 -----------
 ```
