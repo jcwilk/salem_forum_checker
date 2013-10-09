@@ -1,9 +1,9 @@
 Salem Forum Checker
 ============
 
-This should work on any modern ubuntu computer. Will require modification for OSX or Windows, or a shim to make notify-send do something useful. Emailing rather than notifying coming soon!
+This should work on any modern ubuntu computer. Will require modification for OSX or Windows, simplest thing would just be to remove the calls to notify-send and you'll still get the email.
 
-Oh and what it does (not that that's of any importance) is check your forum account for new messages every 10 seconds and make a window manager notification when there's something new.
+Oh and what it does (not that that's of any importance) is check your forum account for new messages every 10 seconds and make a window manager notification and email you when there's any new messages since last it checked.
 
 Setup
 -----------
