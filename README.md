@@ -8,7 +8,7 @@ Oh and what it does (not that that's of any importance) is check your forum acco
 Setup
 -----------
 ```
-$ cd forum_checker
+$ cd salem_forum_checker
 $ bundle
 $ cp ./credentials.yml.example ./credentials.yml
 $ vim ./credentials.yml
