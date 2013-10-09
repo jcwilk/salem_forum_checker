@@ -8,6 +8,7 @@ Oh and what it does (not that that's of any importance) is check your forum acco
 Setup
 -----------
 ```
+$ git clone https://github.com/jcwilk/salem_forum_checker.git
 $ cd salem_forum_checker
 $ bundle
 $ cp ./credentials.yml.example ./credentials.yml
